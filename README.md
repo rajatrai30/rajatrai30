@@ -1,5 +1,5 @@
 
-# Full Stack Web Developer | BlockChain Developer
+# Full Stack Web Developer | AI & ML Enthusiastic
 ## [Joint Web Developer](https://csi.phcet.ac.in/)
 ### [Junior Web Developer @ Web Spectrum]
 <!-- 
