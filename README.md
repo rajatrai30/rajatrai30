@@ -7,7 +7,7 @@
 <!-- <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" /> -->
 
 
-<img align="right" height='180px' alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" />
+<img align="right" height='150px' alt="GIF" margin-bottom="35px" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" />
 
 
 </br>
