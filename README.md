@@ -1,7 +1,7 @@
 
 # Full Stack Web Developer | AI & ML Enthusiastic
 ## [Joint Web Developer](https://csi.phcet.ac.in/)
-### [Junior Web Developer @ Web Spectrum]
+### [Junior Web Developer @ iTDay! India Pvt Ltd]
 <!-- 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
 <!-- <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" /> -->
