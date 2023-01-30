@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai30&label=Profile%20views&color=0e75b6&style=flat" alt="rajatrai30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatrai30" alt="rajatrai30" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai30&label=Profile%20views&color=0e75b6&style=flat" alt="rajatrai30" /> </p>
+ -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatrai30" alt="rajatrai30" /></a> </p> -->
 
 - 🔭 I’m currently working in [iTDAY! INDIA PVT LTD](https://itday.in/)
 
