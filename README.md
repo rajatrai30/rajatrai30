@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working in [iTDAY! INDIA PVT LTD](https://itday.in/)
 
-- 🌱 I’m currently learning & making projects **MERN STACK, React-Native, Android-Kotlin**
+- 🌱 I’m currently learning & making projects using **MERN STACK, React-Native, Android-Kotlin**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](https://summerofcode.withgoogle.com/programs/2023)
 
