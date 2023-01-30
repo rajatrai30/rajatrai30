@@ -1,11 +1,11 @@
 <!--[![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)](https://mailmerairajat.wixsite.com/rajatrai30) -->
+<h1 align="center">Hi 👋, I'm Rajat Rai</h1>
 <p align="center">
   <img width="100% height="10px" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Rajat Rai</h1>
+<!--<h1 align="center">Hi 👋, I'm Rajat Rai</h1>-->
 <h3 align="center">Smart India Hackathon 2022 Winner | Full Stack Developer | SDE Intern @ iTDAY INDIA! | AI & ML Enthusiastic</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif"/>
-
+<img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif"/><h1 align="center"></h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai30&label=Profile%20views&color=0e75b6&style=flat" alt="rajatrai30" /> </p>
  -->
