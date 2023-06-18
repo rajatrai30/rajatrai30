@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [Open Source Projects](https://summerofcode.withgoogle.com/programs/2023)
 
-- 👨‍💻 All of my projects are available at [https://mailmerairajat.wixsite.com/rajatrai30](https://mailmerairajat.wixsite.com/rajatrai30)
+- 👨‍💻 All of my projects are available at [https://github.com/rajatrai30?tab=repositories](https://github.com/rajatrai30?tab=repositories)
 
 - 📝 I regularly write articles on [https://dev.to/rajatrai30](https://dev.to/rajatrai30)
 
